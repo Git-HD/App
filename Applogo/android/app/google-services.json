@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757257647361",
+    "firebase_url": "https://pelagic-bastion-232419.firebaseio.com",
+    "project_id": "pelagic-bastion-232419",
+    "storage_bucket": "pelagic-bastion-232419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757257647361:android:1bea3c07f22dd760",
+        "android_client_info": {
+          "package_name": "com.applogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757257647361-flepnl7cipggt8snmbv7h5sgtmd2dg0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYDnSdFl2tFuxyGjPRzkv5VT0MHMa4gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757257647361-flepnl7cipggt8snmbv7h5sgtmd2dg0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
